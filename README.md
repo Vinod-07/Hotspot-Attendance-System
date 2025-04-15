@@ -1,8 +1,8 @@
-# 📶 SmartWiFi-Attendance
+# 📶 Hotspot-Attendance-System
 
 ## 📌 Overview
 
-The **WiFiTrack Attendance System** is a Python-based application designed to automate classroom attendance using Wi-Fi network scanning. By detecting students' devices connected to the classroom Wi-Fi, the system marks attendance automatically, reducing manual effort and improving accuracy. ✅
+The **Hotspot-Attendance-System** is a Python-based application designed to automate classroom attendance using Wi-Fi network scanning. By detecting students' devices connected to the classroom Wi-Fi, the system marks attendance automatically, reducing manual effort and improving accuracy. ✅
 
 With an easy-to-use interface, teachers simply need to start the application, connect it to the classroom Wi-Fi, and let it scan for devices. Manual marking options and attendance report generation features are also available. 📊
 
@@ -15,7 +15,7 @@ With an easy-to-use interface, teachers simply need to start the application, co
 
 ## ⚙️ Requirements
 
-To run the **WiFiTrack Attendance System**, ensure you have:
+To run the **Hotspot-Attendance-System**, ensure you have:
 
 - 💻 A computer with a Wi-Fi network adapter
 - 🐍 Python 3.6+
@@ -35,7 +35,7 @@ Follow these steps to install and set up the system:
 
 ## 🚀 Usage
 
-1. ▶️ Start the **WiFiTrack Attendance System**.
+1. ▶️ Start the **Hotspot-Attendance-System**.
 2. 📡 Connect the application to the classroom Wi-Fi.
 3. 🏫 The system will automatically detect and mark student attendance.
 4. ✍️ Manually adjust attendance records if needed.
